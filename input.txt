@@ -1,0 +1,12 @@
+3	!nx=ny; number of points
+100	!NA
+
+
+
+
+
+
+
+
+
+
